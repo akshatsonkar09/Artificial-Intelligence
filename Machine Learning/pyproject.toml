@@ -1,0 +1,27 @@
+[project]
+name = "machine-learning-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Akshat", email = "akshatsonkar09@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
+    "mlxtend>=0.25.0",
+    "mysql-connector-python>=26.7.0",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "plotly>=6.9.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+machine-learning-tutorial = "machine_learning_tutorial:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

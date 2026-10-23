@@ -1,0 +1,112 @@
+Not Covered:
+
+GridSearchCV
+RandomizedSearchCV
+Optuna
+
+Not covered deeply:
+
+Bayesian Optimization theory
+Hyperopt
+Ray Tune
+
+Not important yet.
+
+
+
+Chapter 2
+Cross Validation (if not already covered earlier)
+Error Analysis
+Production Monitoring
+Data Drift
+Model Retraining
+Chapter 3
+Precision-Recall Tradeoff
+Threshold Tuning
+Multilabel Classification
+Chapter 4
+Normal Equation
+Learning Curves
+Early Stopping
+Chapter 8
+
+The biggest gap.
+
+Not covered:
+
+Kernel PCA
+Incremental PCA
+Randomized PCA
+LLE
+t-SNE
+UMAP
+Chapter 9
+
+Not covered:
+
+Gaussian Mixture Models (GMM)
+EM Algorithm
+Anomaly Detection
+Isolation Forest
+One-Class SVM
+
+
+
+The biggest hole after finishing your playlist would be Cross Validation + Error Analysis + Learning Curves. Everything else is smaller in comparison.
+
+
+Tier 1 — Very Important
+
+These are the ones that genuinely matter and come up often.
+
+Cross Validation
+Learning Curves
+Precision-Recall Tradeoff / Threshold Tuning
+Early Stopping
+Becomes important immediately in Deep Learning.
+Also used in boosting methods.
+Error Analysis
+Separates good practitioners from people who just run models.
+Tier 2 — Useful
+Gaussian Mixture Models (GMM)
+Important unsupervised algorithm.
+Good conceptual bridge to probabilistic ML.
+Anomaly Detection
+Common real-world application.
+Fraud detection, intrusion detection, fault detection.
+Isolation Forest
+Practical anomaly detection algorithm.
+Multilabel Classification
+Appears in real datasets occasionally.
+Tier 3 — Nice to Know
+Kernel PCA
+Incremental PCA
+Randomized PCA
+LLE
+
+Good algorithms but rarely used by beginners today.
+
+Tier 4 — Lowest Priority
+Model Monitoring
+Data Drift
+Model Retraining Pipelines
+
+Important in industry/MLOps, but irrelevant for understanding ML algorithms.
+
+
+
+
+
+
+
+Worth Learning Deeply
+Data Leakage
+Cross Validation
+Transformers
+Deployment
+APIs
+Docker
+RAG
+Vector Databases
+
+These directly affect whether your solution works.

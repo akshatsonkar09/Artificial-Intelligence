@@ -1,0 +1,196 @@
+ML ROADMAP STATUS
+
+COMPLETED TOPICS
+================
+
+Python & Data Handling
+----------------------
+- Python Fundamentals
+- OOP
+- File Handling
+- Exception Handling
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- EDA
+- Data Cleaning
+- Feature Engineering
+- Missing Value Handling
+- Encoding
+- Scaling / Standardization / Normalization
+
+Statistics & Math
+-----------------
+- Basic Probability for Naive Bayes
+- Eigenvalues
+- Eigenvectors
+- PCA Mathematics
+
+Regression
+----------
+- Simple Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
+
+Optimization
+------------
+- Gradient Descent
+- Batch Gradient Descent
+- Stochastic Gradient Descent (SGD)
+- Mini-Batch Gradient Descent
+
+Regularization
+--------------
+- Ridge Regression
+- Lasso Regression
+- Elastic Net
+
+Classification
+--------------
+- Perceptron
+- Perceptron with Sigmoid
+- Logistic Regression using Gradient Descent
+- Logistic Regression
+- Polynomial Logistic Regression
+- Softmax Regression
+- Naive Bayes
+- KNN
+- KNN Decision Boundary
+- Hard Margin SVM
+- Soft Margin SVM
+- Polynomial Kernel SVM
+
+Evaluation Metrics
+------------------
+- Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC Curve
+- ROC-AUC
+- TPR
+- FPR
+
+Decision Trees
+--------------
+- Decision Tree Classification
+- Decision Tree Regression
+- Tree Visualization
+- Hyperparameters
+- Feature Importance
+
+Ensemble Learning
+-----------------
+- Voting Classifier
+- Voting Regressor
+- Bagging
+- Pasting
+- Random Subspaces
+- Random Patches
+- OOB Score
+- Random Forest Classifier
+- Random Forest Regressor
+- AdaBoost
+- Gradient Boosting
+- Stacking
+
+Imbalanced Learning
+-------------------
+- Undersampling
+- Oversampling
+- SMOTE
+- Ensemble Methods
+- Cost Sensitive Learning
+
+Dimensionality Reduction
+------------------------
+- PCA
+
+Clustering
+----------
+- K-Means
+- Hierarchical Clustering (Agglomerative)
+- Hierarchical Clustering (Divisive)
+- DBSCAN
+
+
+REMAINING TOPICS
+================
+
+High Priority
+-------------
+- Cross Validation
+- Stratified K-Fold
+- GridSearchCV
+- RandomizedSearchCV
+- Data Leakage
+- XGBoost
+
+Medium Priority
+---------------
+- Feature Selection
+  * Variance Threshold
+  * Chi-Square Selection
+  * Wrapper Methods
+  * RFE
+  * Embedded Methods
+
+- Multicollinearity
+- Assumptions of Linear Regression
+
+Optional / Advanced
+-------------------
+- Gaussian Mixture Models (GMM)
+- Expectation Maximization (EM)
+- Bayesian GMM
+- Extra Trees
+- Isolation Forest
+- One-Class SVM
+
+Statistics (if not completed)
+-----------------------------
+- Central Limit Theorem
+- Confidence Intervals
+- Hypothesis Testing
+- Chi-Square Test
+- ANOVA
+
+
+DEEP LEARNING ROADMAP
+=====================
+
+- Artificial Neural Networks (ANN)
+- Backpropagation
+- CNN
+- RNN / LSTM
+- Transformers
+- LLMs
+
+
+PRIORITY ORDER
+==============
+
+1. Cross Validation
+2. Stratified K-Fold
+3. GridSearchCV
+4. RandomizedSearchCV
+5. Data Leakage
+6. XGBoost
+7. Feature Selection
+8. Multicollinearity
+9. GMM / EM
+10. Deep Learning
+
+
+ESTIMATED STATUS
+================
+
+Classical Machine Learning:
+~90-95% Complete
+
+Best Career Fit:
+1. AI / LLM Engineer
+2. ML Engineer
+3. MLOps Engineer
